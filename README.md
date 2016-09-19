@@ -12,10 +12,10 @@ Kullanmak için uygulanacak adımlar;
 
 Kullanılan teknolojiler
 
- spring 
+ ---spring 
 
- java
+ ---java
 
- junit
+ ---junit
 
- hibernate4
+ ---hibernate4
