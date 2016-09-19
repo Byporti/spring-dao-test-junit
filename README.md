@@ -11,7 +11,11 @@ Kullanmak için uygulanacak adımlar;
 2)Proje dahilinde gelen sql i mysql inize import ediniz.Ya da modeli import edip sql şekline getirebilirsiniz.
 
 Kullanılan teknolojiler
+
  spring 
+
  java
+
  junit
+
  hibernate4
