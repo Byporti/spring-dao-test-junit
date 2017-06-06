@@ -30,3 +30,5 @@ If you wanna use this project,follow this steps.
 
 2)Import the sql file in the project to MySQL.
 
+<br/><hr>
+![resim gosterilemiyor.](https://cloud.githubusercontent.com/assets/6229029/26828329/9c724a5e-4ac9-11e7-836d-4a24bdb99ea6.png)
